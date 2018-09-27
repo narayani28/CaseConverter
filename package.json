@@ -1,7 +1,7 @@
 {
   "name": "ChangeCase",
   "title": "Change Case",
-  "description": "Convert between case on selection of a text",
+  "description": "Change the case on selection(s) of a text in the editor - Convert to Camel case, Constant case, Dot case, Header Case, Lower case, Param case, Pascal case, Sentence case, Snake case, Title case and Upper case",
   "version": "1.0.0",
   "author": "Narayani <narayani.84@gmail.com> (https://github.com/narayani28/)",
   "license": "MIT",
