@@ -1,8 +1,8 @@
 {
-  "name": "CaseConverter",
-  "title": "Case Converter",
+  "name": "ChangeCase",
+  "title": "Change Case",
   "description": "Convert between case on selection of a text",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Narayani <narayani.84@gmail.com> (https://github.com/narayani28/)",
   "license": "MIT",
   "engines": {
