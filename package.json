@@ -1,5 +1,5 @@
 {
-  "name": "ChangeCase",
+  "name": "changecase",
   "title": "Change Case",
   "description": "Change the case on selection(s) of a text in the editor - Convert to Camel case, Constant case, Dot case, Header Case, Lower case, Param case, Pascal case, Sentence case, Snake case, Title case and Upper case",
   "version": "1.0.0",
